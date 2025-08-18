@@ -1,6 +1,6 @@
 # Web Scraper Project 🕸️
 
-A simple Python project for scraping data from websites using **Requests** and **BeautifulSoup**.  
+A simple Python project for scraping data from quotes website using **Requests** and **BeautifulSoup**. So based on tags we extract the data.
 This project was initially built in Jupyter/Colab and later converted into a `.py` script for easy execution.
 
 ---
